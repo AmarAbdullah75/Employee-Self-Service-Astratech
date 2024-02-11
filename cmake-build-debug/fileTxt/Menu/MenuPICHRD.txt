@@ -1,0 +1,19 @@
+Profile                   
+
+
+CRUD Pengumuman       
+
+
+CRUD Menu Makanan     
+
+
+Lihat Absensi Kehadiran
+
+
+Lihat Absensi Makan     
+
+
+Rekap Absensi Makan      
+
+
+Logout           

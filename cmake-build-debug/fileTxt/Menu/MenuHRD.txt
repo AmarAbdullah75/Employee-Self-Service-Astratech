@@ -1,0 +1,22 @@
+Profile          
+
+
+Absensi         
+
+
+Medical       
+
+
+Pengajuan Karyawan
+
+
+Laporan Perizinan      
+
+
+Rekap Transaksi Medical
+
+
+Data Approval Perizinan 
+
+
+Logout

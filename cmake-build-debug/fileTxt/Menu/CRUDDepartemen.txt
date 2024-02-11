@@ -1,0 +1,16 @@
+Tambah Departemen
+
+
+Lihat Departemen
+
+
+Ubah Departemen
+
+
+Hapus Departemen
+
+
+Kembali      
+
+
+Keluar   

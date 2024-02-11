@@ -1,0 +1,16 @@
+Tambah Medical
+
+
+Lihat Medical
+
+
+Ubah Medical
+
+
+Hapus Medical
+
+
+Kembali      
+
+
+Keluar   
